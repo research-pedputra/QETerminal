@@ -1,0 +1,14 @@
+ase>=3.26,<4
+numpy>=1.26,<3
+matplotlib>=3.9,<4
+PySide6>=6.7,<7
+Pillow>=10,<13
+paramiko>=3.4,<5
+pyte>=0.8,<0.9
+scipy>=1.13,<2
+pymatgen>=2025
+xraydb>=4.5,<5
+
+# Default 3D cube and structure renderer
+pyvista>=0.46,<0.50
+pyvistaqt>=0.11,<0.14
